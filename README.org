@@ -1,0 +1,10 @@
+* inner-conditional
+
+Series of macros which optimizes the inner conditional jumps of looping, iterating, anything
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/guicho271828/inner-conditional.git   |
+| commit  | 9d26263  |
+| systems | inner-conditional |
+|---------+-------------------------------------------|
+
