@@ -8,3 +8,4 @@ Series of macros which optimizes the inner conditional jumps of looping, iterati
 | systems | inner-conditional |
 |---------+-------------------------------------------|
 
+ 
